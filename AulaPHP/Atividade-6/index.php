@@ -27,10 +27,7 @@
         $preco = 5.50;
         $nomebebida = "COCA-COLA";    
         break;
-    case 3:
-        $preco = 8.00;
-        $nomebebida = "PITÙ";    
-        break;
+    
     default:
         echo "Opção invalida";      
             }
