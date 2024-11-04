@@ -1,4 +1,30 @@
-body{
-    font-size: 200px;
-    color: aqua;
+body {
+    display: flex;
+    justify-content: center; /* Centraliza horizontalmente */
+    align-items: center; /* Centraliza verticalmente */
+    height: 100vh; /* Para ocupar toda a altura da viewport */
+    margin: 0; /* Remove margens padrão */
+    background-color: cadetblue;
 }
+
+main{
+    text-align: left;
+    display: flex;
+    font-size: 20px;
+    background-color: aliceblue;
+    padding: 7px;
+    border-radius: 8px;
+}
+
+input{
+    top: 20px;
+    fle
+}
+
+#nome{
+    top: 200px;
+}
+
+
+
+
